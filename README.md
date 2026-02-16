@@ -1,4 +1,4 @@
-## Medical-Research-Projects (Deep Learning)
+## Medical-Research-Projects (Machine Learning & Deep Learning)
 
 ## Imon Emmanuel & Gift Eme
 
