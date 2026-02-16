@@ -2,7 +2,7 @@
 
 ## Role: Collaborator
 
-## Project Repositories: 
+## Click on each project repository link to view: 
 
 https://github.com/ImonEmmanuel/breast_cancer_research
 
