@@ -1,6 +1,6 @@
 ## Medical-Research-Projects
 
-## Role: Collaborator
+## Imon Emmanuel & Gift Eme
 
 ## Click on each project repository link to view: 
 
